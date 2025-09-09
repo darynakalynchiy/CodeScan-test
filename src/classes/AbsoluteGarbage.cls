@@ -2,7 +2,7 @@
 * This is absolute garbage
 */
 public class AbsoluteGarbage{
-
+@SuppressWarnings("All")
     public AbsoluteGarbage(){
         //Empty constructor 
     }
