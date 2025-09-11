@@ -3,6 +3,7 @@
 */
 public class AbsoluteGarbage{
 
+1
     public AbsoluteGarbage(){
         //Empty constructor 
     }
